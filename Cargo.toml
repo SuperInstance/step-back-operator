@@ -1,0 +1,9 @@
+[package]
+name = "step-back-operator"
+version = "0.1.0"
+edition = "2021"
+description = "Topological step-back operator β₁ = E - V + C for pattern detection in event networks"
+license = "MIT"
+repository = "https://github.com/SuperInstance/step-back-operator"
+keywords = ["topology", "cohomology", "network", "pattern", "betty"]
+categories = ["mathematics", "science"]
